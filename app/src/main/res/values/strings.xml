@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Contatos</string>
+    <string name="contactos">Contactos</string>
+    <string name="llamar">Llamar</string>
+    <string name="cel">Cel: </string>
+    <string name="correo">Correo: </string>
+    <string name="nombre">Jose Díaz</string>
+    <string name="numero">987987987</string>
+    <string name="gmail">jose@gmail.com</string>
+
+
+    <string name="nombre_1">David Jimenez</string>
+    <string name="numero_1">951720566</string>
+    <string name="gmail_1">davis@gmail.com</string>
+</resources>
